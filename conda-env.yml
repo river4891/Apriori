@@ -1,0 +1,7 @@
+name: apriori-env
+dependencies:
+  - python=3.10
+  - lxml
+  - selenium 
+  - pip:
+    - efficient_apriori 
